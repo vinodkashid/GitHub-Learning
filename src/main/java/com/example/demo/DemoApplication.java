@@ -10,6 +10,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         System.out.println("Vinod demo test....");
         System.out.println("Vinod demo test....1");
+        System.out.println("Vinod demo test....2");
         SpringApplication.run(DemoApplication.class, args);
     }
 
